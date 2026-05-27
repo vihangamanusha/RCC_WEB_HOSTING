@@ -1,5 +1,5 @@
 import { createRoot } from "react-dom/client";
-import { RouterProvider } from "react-router";
+import { RouterProvider } from "react-router-dom";
 import { LanguageProvider } from "./contexts/LanguageContext";
 import { router } from "./routes";
 import "./styles/index.css";

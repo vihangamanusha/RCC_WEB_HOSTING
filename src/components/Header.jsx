@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Link, useLocation } from "react-router";
+import { Link, useLocation } from "react-router-dom";
 import { Menu, X, Globe, LucideDivide } from "lucide-react";
 import logo from "../assets/rcc.png";
 import { useLanguage } from "../contexts/LanguageContext";

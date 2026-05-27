@@ -1,5 +1,5 @@
 import { Trophy, Award, Volleyball } from "lucide-react";
-import { Link } from "react-router";
+import { Link } from "react-router-dom";
 import { ImageWithFallback } from "../components/figma/ImageWithFallback";
 import { useLanguage } from "../contexts/LanguageContext";
 import sportsImage from "../assets/sport.png";

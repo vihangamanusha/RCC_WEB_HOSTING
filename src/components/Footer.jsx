@@ -1,5 +1,5 @@
 import { Facebook, Youtube, Linkedin } from "lucide-react";
-import { Link } from "react-router";
+import { Link } from "react-router-dom";
 import logo from "../assets/rcc.png";
 import { useLanguage } from "../contexts/LanguageContext";
 
